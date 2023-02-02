@@ -7,7 +7,7 @@
 
 - :houses:I'm based in İstanbul.
 - :computer:Sites I publish on 
-www.emremurateren.com.tr && https://mvccore6.emremuratere.com.tr
+www.emremurateren.com.tr && https://mvccore6.emremurateren.com.tr
 - :e-mail: You can contact me at emremurateren@gmail.com
 
 
