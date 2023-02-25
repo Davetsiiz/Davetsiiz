@@ -13,7 +13,7 @@ www.emremurateren.com.tr && https://mvccore6.emremurateren.com.tr
 
 ## Skills
 
-![](https://i.hizliresim.com/isxv88v.png?raw=true "Title") ![](https://i.hizliresim.com/4cyysxr.png?raw=true "Title") ![](https://i.hizliresim.com/av9x5xg.png?raw=true "Title") ![](https://i.hizliresim.com/pc83ery.png?raw=true "Title") ![](https://i.hizliresim.com/kwrgn3g.png?raw=true "Title") ![](https://i.hizliresim.com/5a1qepi.png?raw=true "Title") ![](https://i.hizliresim.com/az054si.png?raw=true "Title") ![](https://i.hizliresim.com/4bdlfr9.png?raw=true "Title") ![](?raw=true "Title") ![](https://i.hizliresim.com/78wxfxx.png?raw=true "Title") ![](https://i.hizliresim.com/7be9gh1.png?raw=true "Title")
+![](https://i.hizliresim.com/isxv88v.png?raw=true "Title")  ![](https://i.hizliresim.com/av9x5xg.png?raw=true "Title") ![](https://i.hizliresim.com/pc83ery.png?raw=true "Title") ![](https://i.hizliresim.com/kwrgn3g.png?raw=true "Title") ![](https://i.hizliresim.com/5a1qepi.png?raw=true "Title") ![](https://i.hizliresim.com/az054si.png?raw=true "Title") ![](https://i.hizliresim.com/4bdlfr9.png?raw=true "Title") ![](?raw=true "Title") ![](https://i.hizliresim.com/78wxfxx.png?raw=true "Title") ![](https://i.hizliresim.com/7be9gh1.png?raw=true "Title")
 
 ## Socials
 ![](https://i.hizliresim.com/qb6fwmh.png?raw=true "Title") ![](https://i.hizliresim.com/68ayugq.png?raw=true "Title")
