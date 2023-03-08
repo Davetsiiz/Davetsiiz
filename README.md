@@ -13,7 +13,7 @@ www.emremurateren.com.tr && https://mvccore6.emremurateren.com.tr
 
 ## Skills
 
-![C#](https://i.hizliresim.com/isxv88v.png?raw=true "C#")  
+![C#](https://i.hizliresim.com/isxv88v.png?raw=true "C#")
 ![SQL](https://i.hizliresim.com/av9x5xg.png?raw=true "SQL") 
 ![Python](https://i.hizliresim.com/pc83ery.png?raw=true "Python") 
 ![HTML5](https://i.hizliresim.com/kwrgn3g.png?raw=true "HTML5") 
