@@ -13,16 +13,15 @@ www.emremurateren.com.tr && https://mvccore6.emremurateren.com.tr
 
 ## Skills
 
-![C#](https://i.hizliresim.com/isxv88v.png?raw=true "Title")  
-![SQL](https://i.hizliresim.com/av9x5xg.png?raw=true "Title") 
-![Python](https://i.hizliresim.com/pc83ery.png?raw=true "Title") 
-![HTML5](https://i.hizliresim.com/kwrgn3g.png?raw=true "Title") 
-![Bootstrap](https://i.hizliresim.com/5a1qepi.png?raw=true "Title") 
-![HTML](https://i.hizliresim.com/az054si.png?raw=true "Title") 
-![.Net](https://i.hizliresim.com/4bdlfr9.png?raw=true "Title") 
-![:netCore](?raw=true "Title") 
-![.netCore](https://i.hizliresim.com/78wxfxx.png?raw=true "Title") 
-![Git](https://i.hizliresim.com/7be9gh1.png?raw=true "Title")
+![C#](https://i.hizliresim.com/isxv88v.png?raw=true "C#")  
+![SQL](https://i.hizliresim.com/av9x5xg.png?raw=true "SQL") 
+![Python](https://i.hizliresim.com/pc83ery.png?raw=true "Python") 
+![HTML5](https://i.hizliresim.com/kwrgn3g.png?raw=true "HTML5") 
+![Bootstrap](https://i.hizliresim.com/5a1qepi.png?raw=true "Bootstrap") 
+![HTML](https://i.hizliresim.com/az054si.png?raw=true "HTML") 
+![.Net](https://i.hizliresim.com/4bdlfr9.png?raw=true ".Net") 
+![.netCore](https://i.hizliresim.com/78wxfxx.png?raw=true ".netCore") 
+![Git](https://i.hizliresim.com/7be9gh1.png?raw=true "Git")
 
 ## Socials
-![https://www.linkedin.com/in/emre-murat-eren](https://i.hizliresim.com/qb6fwmh.png?raw=true "Title") ![](https://i.hizliresim.com/68ayugq.png?raw=true "Title")
+![https://www.linkedin.com/in/emre-murat-eren](https://i.hizliresim.com/qb6fwmh.png?raw=true "[linkedin](https://www.linkedin.com/in/emre-murat-eren)") ![](https://i.hizliresim.com/68ayugq.png?raw=true "Title")
