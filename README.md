@@ -1,5 +1,5 @@
 # Selam! Ben Emre Murat Eren 👋
-###.Net Yazılım Uzmanı | Makine Mühendisi
+### .Net Yazılım Uzmanı | Makine Mühendisi
 
 Makine Mühendisliği kökenli bir **Yazılım Geliştiriciyim**. Üniversite yıllarımdan bu yana yazılıma olan tutkumla, **800 saatlik Web ve Mobil Programlama** eğitimini tamamlayarak profesyonel kariyerime adım attım. Şu anda **.NET ekosistemi** ve modern web teknolojileri üzerine uzmanlaşmış bir  Yazılım Uzmanı olarak çalışmaktayım.
 
