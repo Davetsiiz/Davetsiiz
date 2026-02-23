@@ -1,27 +1,68 @@
-###  Hi👋 My name is Emre Murat Eren
+# Selam! Ben Emre Murat Eren 👋
+###.Net Yazılım Uzmanı | Makine Mühendisi
 
-## I'm a Software Developer
+Makine Mühendisliği kökenli bir **Yazılım Geliştiriciyim**. Üniversite yıllarımdan bu yana yazılıma olan tutkumla, **800 saatlik Web ve Mobil Programlama** eğitimini tamamlayarak profesyonel kariyerime adım attım. Şu anda **.NET ekosistemi** ve modern web teknolojileri üzerine uzmanlaşmış bir  Yazılım Uzmanı olarak çalışmaktayım.
 
-- 💬 I graduated from Uludağ University Department of Machine Engineering in 2022. After the software courses I saw at school, my interest in software started and I received a professional training when I finished school. This training was ISKUR supported Web and Mobile Programming (800 hours) training. As a result of the training, software developer certificates were given by Microsoft, MEB and İSKUR. I care a lot about learning new things and developing my skills, and I think it is necessary to benefit from the teaching power of human relations for this purpose. I think it is important to be creative in both business and personal life, being aware that developing ideas keeps the mind and therefore the body constantly active.
+---
 
+## 🚀 Hakkımda
+- 📍 **Konum:** Ümraniye, İstanbul
+- 💼 **Mevcut Rol:** ABT Bilgisayar'da Yazılım Uzmanı
+- 🎓 **Eğitim:** Uludağ Üniversitesi Makine Mühendisliği (2013-2020)
+- 📜 **Sertifika:** Smartpro & MEB Onaylı Web ve Mobil Programlama Uzmanlığı
+- 🎨 **Hobiler:** 3D Yazıcılar, Araç-Gereç Restorasyonu ve Model Oyuncak Tasarımı
 
-- :houses:I'm based in İstanbul.
-- :computer:Sites I publish on 
-www.emremurateren.com.tr && https://mvccore6.emremurateren.com.tr
-- :e-mail: You can contact me at emremurateren@gmail.com
+---
 
+## 🛠 Teknik Yetenekler
 
-## Skills
+### **Backend & Veritabanı**
+- **Frameworkler:** C#, ASP.NET Core MVC, ASP.NET MVC, Win. Form
+- **Veri & API:** Entity Framework, ADO.NET, RESTful API
+- **Validasyon & Loglama:** Fluent Validation, Serilog
+- **Raporlama:** Stimulsoft Reports
+- **Veritabanı:** MS-SQL, MongoDB
 
-![C#](https://i.hizliresim.com/isxv88v.png?raw=true "C#")
-![SQL](https://i.hizliresim.com/av9x5xg.png?raw=true "SQL") 
-![Python](https://i.hizliresim.com/pc83ery.png?raw=true "Python") 
-![HTML5](https://i.hizliresim.com/kwrgn3g.png?raw=true "HTML5") 
-![Bootstrap](https://i.hizliresim.com/5a1qepi.png?raw=true "Bootstrap") 
-![HTML](https://i.hizliresim.com/az054si.png?raw=true "HTML") 
-![.Net](https://i.hizliresim.com/4bdlfr9.png?raw=true ".Net") 
-![.netCore](https://i.hizliresim.com/78wxfxx.png?raw=true ".netCore") 
-![Git](https://i.hizliresim.com/7be9gh1.png?raw=true "Git")
+### **Frontend**
+- **Modern Frameworkler:** Vue.js
+- **Kütüphaneler:** Knockout.js, jQuery, Ajax
+- **Temel:** JavaScript, HTML5, CSS3
 
-## Socials
-![https://www.linkedin.com/in/emre-murat-eren](https://i.hizliresim.com/qb6fwmh.png?raw=true "[linkedin](https://www.linkedin.com/in/emre-murat-eren)") ![](https://i.hizliresim.com/68ayugq.png?raw=true "Title")
+### **Mimari & Araçlar**
+- **Desenler:** Generic Repository Pattern, UnitOfWork Pattern, Repository Pattern,Vertical Slice Architecture, Clean Architecture
+Hedeflerini GitHub profilinde hem daha profesyonel hem de teknik derinliğini gösterecek şekilde şu alternatiflerle ifade edebilirsin.
+
+İşte profilin için en şık ve mantıklı 3 farklı seçenek:
+Seçenek 1: Modern ve İkonlu (En Çok Tercih Edilen)
+
+Bu versiyon, profilini ziyaret edenlerin uzmanlaşmak istediğin alanları bir bakışta anlamasını sağlar.
+Markdown
+
+---
+
+## 🎯 Gelecek Odaklı Yol Haritam
+Teknik derinliğimi artırmak ve ölçeklenebilir sistem mimarilerine hakim olmak adına şu an aşağıdaki alanlara odaklanıyorum:
+
+- 🦀 **Dil:** Sistem seviyesinde performans ve güvenli kod geliştirme için **Rust**.
+- 🏗️ **Mimari Desenler:** Karmaşık iş mantıklarını yönetmek için **CQRS**, **Mediator** ve **Multi-tenant** mimarileri.
+- 🚀 **Altyapı & Performans:**
+  - **Mesajlaşma:** Dağıtık sistem iletişimi için **RabbitMQ**.
+  - **Caching:** Yüksek performanslı veri erişimi için **Redis**.
+  - **Search:** Gelişmiş arama ve büyük veri analitiği için **ElasticSearch** 
+---
+
+## 💼 İş Deneyimi
+- **ABT Bilgisayar** | Yazılım Uzmanı (03.2024 - Halen)
+- **BioBellinda / Crawler Karavan** | Yazılım Uzmanı (06.2023 - 02.2024)
+- **CMD Yazılım ve Otomasyon** | Yazılım Uzmanı (05.2023 - 06.2023)
+
+---
+
+## 📊 Bağlantılar
+
+- 🌐 **Web:** [emremurateren.com.tr](https://www.emremurateren.com.tr)
+- 💼 **LinkedIn:** [linkedin.com/in/emre-murat-eren](https://linkedin.com/in/emre-murat-eren)
+- 📧 **E-posta:** [emremurateren@gmail.com](mailto:emremurateren@gmail.com)
+- 💻 **Projeler:** [github.com/Davetsiiz](https://github.com/Davetsiiz)
+
+---
